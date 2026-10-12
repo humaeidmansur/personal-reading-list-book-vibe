@@ -4,6 +4,7 @@
   },
   "dependencies": {
     "@tailwindcss/postcss": "^4.3.3",
+    "recharts": "^3.10.1",
     "tailwindcss": "^4.3.3"
   }
 }
