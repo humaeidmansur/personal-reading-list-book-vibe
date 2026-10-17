@@ -2,26 +2,6 @@
 
 A book discovery and personal reading list application built with Next.js, React, TypeScript, Tailwind CSS, and DaisyUI.
 
-## Installation
-
-1. Clone the repository.
-
-2. Open the project folder in your terminal.
-
-3. Install dependencies:
-
-   ```bash
-   npm install
-   ```
-
-4. Start the development server:
-
-   ```bash
-   npm run dev
-   ```
-
-5. Open http://localhost:3000 in your browser.
-
 ## Technologies
 
 * Next.js
@@ -30,9 +10,22 @@ A book discovery and personal reading list application built with Next.js, React
 * Tailwind CSS
 * DaisyUI
 
-## Features
+## Getting Started
 
-* Browse books.
-* View book details.
-* Manage your reading list.
-* Responsive user interface.
+Install dependencies:
+
+```bash
+npm install
+```
+
+Start the development server:
+
+```bash
+npm run dev
+```
+
+Open http://localhost:3000 in your browser.
+
+## Project Purpose
+
+This project demonstrates frontend development, book discovery, and personal reading list functionality.
