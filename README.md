@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Book Vibe
 
 A book discovery and personal reading list application built with Next.js, React, TypeScript, Tailwind CSS, and DaisyUI.
@@ -29,3 +30,6 @@ Open http://localhost:3000 in your browser.
 ## Project Purpose
 
 This project demonstrates frontend development, book discovery, and personal reading list functionality.
+=======
+   ## Next Js Installation
+>>>>>>> 508cd8e405d559fbfaaf2a793350be234cd87cd0
